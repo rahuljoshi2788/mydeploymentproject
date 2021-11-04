@@ -21,7 +21,7 @@ const Home = (props) =>{
         // console.log("Hello from useEffect");
 
 
-    },[])
+    })
 
     const loadStudents = async () => {
 
